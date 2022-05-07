@@ -34,8 +34,6 @@ C. Introducing new predictors
 
 A. Weaknesses
 
-통계학과 2017150470 한승헌
-
 1
 
 
